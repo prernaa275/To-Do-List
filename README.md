@@ -2,7 +2,7 @@
 
 TO-DO-LIST
 
-You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
+You can see the website live at: https://prernaa275.github.io/To-Do-List/
 
 ABOUT THIS PROJECT-:
 
